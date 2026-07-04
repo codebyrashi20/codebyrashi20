@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rashi 👋
 
-<!--
-**codebyrashi20/codebyrashi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Data Structures & Algorithms (C++)
+- Python Programming
+- Data Science
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Goal
+Build strong problem-solving skills through DSA and create Machine Learning projects.
+
+🛠️ Skills
+- C++
+- Python
+- HTML
+- Git & GitHub
+- Machine Learning Basics
+
+📈 Currently Working On
+- LeetCode & DSA Practice
+- Data Science Projects
+- Machine Learning Projects
+
+✨ Fun Fact
+I love learning new technologies and turning ideas into projects.
